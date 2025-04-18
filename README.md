@@ -1,2 +1,5 @@
 # react-csv-uploader
-Simple and generalised CSV uploader component for React  
+
+Simple and generalized CSV uploader component for React.
+
+![alt text](image.png)
